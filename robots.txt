@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onthane.github.io/sitemap
+Sitemap: https://onthane.github.io/app/sitemap
+Sitemap: https://onthane.github.io/assets/sitemap
+Sitemap: https://onthane.github.io/css/sitemap
+Sitemap: https://onthane.github.io/includes/sitemap
+Sitemap: https://onthane.github.io/item/sitemap
+Sitemap: https://onthane.github.io/src/sitemap
